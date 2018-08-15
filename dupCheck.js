@@ -14,8 +14,6 @@ function getCommandLine() {
   }
 }
 
-
-
 var filePath = '/Volumes/Scans/TAX HISTORY';
 
 var ssFolders = fs.readdirSync(filePath);
